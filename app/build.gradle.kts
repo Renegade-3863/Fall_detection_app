@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.example.fall_detection_app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.fall_detection_app"
-        minSdk = 34
+        minSdk = 35
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
